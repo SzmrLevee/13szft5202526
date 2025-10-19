@@ -1,0 +1,14 @@
+{
+  "name": "responsive",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "Ignácz Dominik",
+  "type": "module",
+  "dependencies": {
+    "vite": "^7.1.6"
+  }
+}
